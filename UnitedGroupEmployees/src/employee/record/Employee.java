@@ -30,6 +30,6 @@ public abstract class Employee {
 		this.name = name;
 		this.idNo = idNo;
 	}
-	public abstract void salarySet(double salaryRate);
-	public abstract void increaseSalaryRate(double increaseRate);
+	public abstract void salarySet (double salaryRate);
+	public abstract void increaseSalaryRate (double increaseRate);
 }
