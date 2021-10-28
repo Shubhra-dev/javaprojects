@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1545038739 source:c:\users\student\desktop\stringchange\main.c
+	<stdio.h>
+	<string.h>
+
